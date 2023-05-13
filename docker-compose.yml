@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  app:
+    image: bard_of_su
+    ports:
+      - 8080:80
